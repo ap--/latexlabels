@@ -2,7 +2,7 @@
 
 I am using onlinetex for this to get the pdf.
 
-Just comment out the **\_numberoflabels** line and add lines like:
+Just comment out the **\\numberoflabels** line and add lines like:
 
     \prettylabel{foo}{bar}{baz}{qux}{qrk}
 
