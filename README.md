@@ -6,9 +6,9 @@ Just comment out the **\_numberoflabels** line and add lines like:
 
     \prettylabel{foo}{bar}{baz}{qux}{qrk}
 
-for each label. and compile with
+for each label. Then run and compile with
 
-    python onlinetex prettylabels.tex
+    python onlinetex/onlinetex prettylabels.tex
 
 done.
 

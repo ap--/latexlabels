@@ -1,0 +1,3 @@
+[submodule "onlinetex"]
+	path = onlinetex
+	url = https://gist.github.com/5962224.git
